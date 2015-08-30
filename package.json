@@ -1,0 +1,9 @@
+{
+  "name": "Srakks",
+  "version": "0.1.0",
+  "main": "main.js",
+  "dependencies": {
+    "lodash": "^3.10.1",
+    "md5": "^2.0.0"
+  }
+}
